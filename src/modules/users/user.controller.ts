@@ -6,7 +6,7 @@ import { userService } from "./user.service";
 const getAllUsers = async (req: Request, res: Response, next: NextFunction) => {
     try {
         const users: IUser[] = await userService.findAllByQuery<IUser>();
-
+        req.session.user = users[0];
         return res.render('users', {
             users: users
         });

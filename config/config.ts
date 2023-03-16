@@ -5,7 +5,7 @@ const config = {
     server: {
         port: process.env.PORT,
     },
-    jwt: {
+    session: {
         secret: process.env.JWT_SECRET,
         accessTokenExpiresIn: process.env.JWT_TOKEN_EXPIRES_IN
     },

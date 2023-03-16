@@ -1,807 +1,188 @@
-[2023-02-18T14:08:35.296] [DEBUG] default - test
-[2023-02-18T14:08:57.445] [DEBUG] default - test
-[2023-02-18T14:09:32.271] [DEBUG] default - test
-[2023-02-18T14:10:43.713] [DEBUG] default - test
-[2023-02-18T14:10:48.241] [ERROR] default - Route not found!
-[2023-02-18T14:14:31.747] [DEBUG] default - test
-[2023-02-18T14:15:32.706] [DEBUG] default - test
-[2023-02-18T14:16:57.060] [DEBUG] default - test
-[2023-02-18T14:17:40.391] [DEBUG] default - test
-[2023-02-18T14:17:50.111] [DEBUG] default - test
-[2023-02-18T14:46:00.291] [DEBUG] default - test
-[2023-02-20T23:02:31.390] [DEBUG] default - test
-[2023-02-20T23:04:28.020] [ERROR] default - Route not found!
-[2023-02-20T23:04:31.730] [ERROR] default - Route not found!
-[2023-02-20T23:04:33.162] [ERROR] default - Route not found!
-[2023-02-20T23:09:22.916] [DEBUG] default - test
-[2023-02-20T23:11:40.843] [DEBUG] default - test
-[2023-02-20T23:11:58.157] [DEBUG] default - test
-[2023-02-20T23:12:10.525] [DEBUG] default - test
-[2023-02-20T23:12:43.445] [DEBUG] default - test
-[2023-02-20T23:15:13.407] [DEBUG] default - test
-[2023-02-20T23:16:17.823] [DEBUG] default - test
-[2023-02-20T23:17:50.090] [DEBUG] default - test
-[2023-02-20T23:18:42.262] [DEBUG] default - test
-[2023-02-20T23:27:51.491] [DEBUG] default - test
-[2023-02-20T23:29:33.609] [DEBUG] default - test
-[2023-02-20T23:31:16.939] [DEBUG] default - test
-[2023-02-20T23:34:01.442] [ERROR] default - Route not found!
-[2023-02-20T23:34:13.357] [ERROR] default - Route not found!
-[2023-02-20T23:34:30.435] [ERROR] default - Route not found!
-[2023-02-20T23:36:06.934] [DEBUG] default - test
-[2023-02-20T23:55:26.718] [DEBUG] default - test
-[2023-02-20T23:55:30.018] [DEBUG] default - test
-[2023-02-20T23:59:59.287] [ERROR] default - undefined
-[2023-02-21T00:02:26.079] [ERROR] default - undefined
-[2023-02-21T00:02:30.260] [ERROR] default - undefined
-[2023-02-21T00:03:45.148] [ERROR] default - undefined
-[2023-02-21T00:03:46.687] [ERROR] default - undefined
-[2023-02-21T00:04:47.948] [ERROR] default - undefined
-[2023-02-21T00:05:47.394] [ERROR] default - undefined
-[2023-03-03T10:18:50.703] [INFO] default - Server run on the port 8080
-[2023-03-03T10:19:14.283] [INFO] default - Server run on the port 8080
-[2023-03-03T10:19:33.568] [INFO] default - Server run on the port 8080
-[2023-03-03T10:20:27.178] [INFO] default - Server run on the port 8080
-[2023-03-03T10:20:41.220] [ERROR] default - Route not found!
-[2023-03-03T10:20:41.287] [ERROR] default - Route not found!
-[2023-03-03T10:20:44.165] [ERROR] default - Route not found!
-[2023-03-03T10:20:47.675] [ERROR] default - Route not found!
-[2023-03-03T10:24:58.568] [INFO] default - Server run on the port 8080
-[2023-03-03T10:25:20.147] [INFO] default - Server run on the port 8080
-[2023-03-03T10:27:00.846] [INFO] default - Server run on the port 8080
-[2023-03-03T10:27:36.965] [ERROR] default - Route not found!
-[2023-03-03T10:28:03.161] [INFO] default - Server run on the port 8080
-[2023-03-03T10:28:12.034] [ERROR] default - Route not found!
-[2023-03-03T10:28:52.357] [INFO] default - Server run on the port 8080
-[2023-03-03T10:29:18.721] [INFO] default - Server run on the port 8080
-[2023-03-08T17:06:17.986] [INFO] default - Server run on the port 8080
-[2023-03-08T17:06:57.887] [INFO] default - Server run on the port 8080
-[2023-03-08T17:07:12.497] [ERROR] default - Route not found!
-[2023-03-08T17:32:35.613] [INFO] default - Server run on the port 8080
-[2023-03-08T17:49:25.097] [INFO] default - Server run on the port 8080
-[2023-03-08T17:51:10.145] [INFO] default - Server run on the port 8080
-[2023-03-08T17:51:44.258] [INFO] default - Server run on the port 8080
-[2023-03-08T17:51:52.736] [INFO] default - Server run on the port 8080
-[2023-03-08T17:52:40.894] [INFO] default - Server run on the port 8080
-[2023-03-08T17:53:35.750] [INFO] default - Server run on the port 8080
-[2023-03-08T17:55:31.743] [INFO] default - Server run on the port 8080
-[2023-03-08T17:55:54.702] [INFO] default - Server run on the port 8080
-[2023-03-08T18:07:44.869] [INFO] default - Server run on the port 8080
-[2023-03-08T18:07:48.765] [INFO] default - Server run on the port 8080
-[2023-03-08T18:07:59.658] [INFO] default - Server run on the port 8080
-[2023-03-08T18:09:44.472] [INFO] default - Server run on the port 8080
-[2023-03-08T18:10:29.827] [INFO] default - Server run on the port 8080
-[2023-03-08T18:38:18.024] [INFO] default - Server run on the port 8080
-[2023-03-08T18:38:51.148] [INFO] default - Server run on the port 8080
-[2023-03-08T18:40:09.378] [INFO] default - Server run on the port 8080
-[2023-03-08T18:40:37.502] [INFO] default - Server run on the port 8080
-[2023-03-08T18:41:48.639] [INFO] default - Server run on the port 8080
-[2023-03-08T18:44:02.993] [INFO] default - Server run on the port 8080
-[2023-03-08T18:44:12.792] [INFO] default - Server run on the port 8080
-[2023-03-08T18:44:54.858] [INFO] default - Server run on the port 8080
-[2023-03-08T18:45:06.045] [INFO] default - Server run on the port 8080
-[2023-03-08T18:45:15.549] [INFO] default - Server run on the port 8080
-[2023-03-08T18:45:22.232] [INFO] default - Server run on the port 8080
-[2023-03-08T18:47:10.095] [INFO] default - Server run on the port 8080
-[2023-03-08T18:48:43.812] [INFO] default - Server run on the port 8080
-[2023-03-08T18:48:48.922] [INFO] default - Server run on the port 8080
-[2023-03-08T18:49:05.663] [INFO] default - Server run on the port 8080
-[2023-03-08T18:50:41.667] [INFO] default - Server run on the port 8080
-[2023-03-08T18:53:32.604] [INFO] default - Server run on the port 8080
-[2023-03-08T18:54:21.514] [INFO] default - Server run on the port 8080
-[2023-03-08T18:54:25.030] [INFO] default - Server run on the port 8080
-[2023-03-08T18:58:42.257] [INFO] default - Server run on the port 8080
-[2023-03-08T18:58:50.025] [INFO] default - Server run on the port 8080
-[2023-03-08T18:59:31.839] [INFO] default - Server run on the port 8080
-[2023-03-08T19:00:09.182] [INFO] default - Server run on the port 8080
-[2023-03-08T19:00:15.791] [INFO] default - Server run on the port 8080
-[2023-03-08T19:00:21.191] [INFO] default - Server run on the port 8080
-[2023-03-08T19:03:09.855] [INFO] default - Server run on the port 8080
-[2023-03-08T19:12:40.937] [INFO] default - Server run on the port 8080
-[2023-03-08T19:15:20.700] [INFO] default - Server run on the port 8080
-[2023-03-08T19:15:33.964] [INFO] default - Server run on the port 8080
-[2023-03-08T19:15:40.002] [INFO] default - Server run on the port 8080
-[2023-03-08T19:17:27.418] [INFO] default - Server run on the port 8080
-[2023-03-08T19:18:00.445] [INFO] default - Server run on the port 8080
-[2023-03-08T19:18:21.123] [INFO] default - Server run on the port 8080
-[2023-03-08T19:19:24.624] [INFO] default - Server run on the port 8080
-[2023-03-08T19:19:42.319] [INFO] default - Server run on the port 8080
-[2023-03-08T19:19:51.369] [INFO] default - Server run on the port 8080
-[2023-03-08T19:20:01.488] [INFO] default - Server run on the port 8080
-[2023-03-08T19:20:26.611] [INFO] default - Server run on the port 8080
-[2023-03-08T19:22:32.122] [INFO] default - Server run on the port 8080
-[2023-03-08T19:23:47.532] [INFO] default - Server run on the port 8080
-[2023-03-08T19:23:58.366] [ERROR] default - Route not found!
-[2023-03-08T19:25:34.643] [INFO] default - Server run on the port 8080
-[2023-03-08T19:26:00.075] [INFO] default - Server run on the port 8080
-[2023-03-08T19:26:00.796] [ERROR] default - Route not found!
-[2023-03-08T19:26:22.144] [INFO] default - Server run on the port 8080
-[2023-03-08T19:26:31.306] [ERROR] default - TypeError: this.Model.find(...).notDeleted is not a function
-    at ChainService.<anonymous> (D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\src\modules\common\common.service.ts:26:45)
-    at Generator.next (<anonymous>)
-    at D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\src\modules\common\common.service.ts:8:71
-    at new Promise (<anonymous>)
-    at __awaiter (D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\src\modules\common\common.service.ts:4:12)
-    at ChainService.Service.findAllByQuery (D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\src\modules\common\common.service.ts:25:68)
-    at D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\src\modules\users\user.controller.ts:7:46
-    at Generator.next (<anonymous>)
-    at D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\src\modules\users\user.controller.ts:8:71
-    at new Promise (<anonymous>)
-[2023-03-08T19:26:52.142] [ERROR] default - MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
-    at NativeConnection.Connection.openUri (D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\node_modules\mongoose\lib\connection.js:825:32)
-    at Mongoose.createConnection (D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\node_modules\mongoose\lib\index.js:353:10)
-    at Object.<anonymous> (D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\src\db\db.ts:5:33)
-    at Module._compile (node:internal/modules/cjs/loader:1159:14)
-    at Module.m._compile (D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\node_modules\ts-node\src\index.ts:1618:23)
-    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
-    at Object.require.extensions.<computed> [as .ts] (D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\node_modules\ts-node\src\index.ts:1621:12)
-    at Module.load (node:internal/modules/cjs/loader:1037:32)
-    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
-    at Module.require (node:internal/modules/cjs/loader:1061:19) {
-  reason: TopologyDescription {
-    type: 'Unknown',
-    servers: Map(1) { 'localhost:27017' => [ServerDescription] },
-    stale: false,
-    compatible: true,
-    heartbeatFrequencyMS: 10000,
-    localThresholdMS: 15,
-    setName: null,
-    maxElectionId: null,
-    maxSetVersion: null,
-    commonWireVersion: 0,
-    logicalSessionTimeoutMinutes: null
-  },
-  code: undefined
-}
-[2023-03-08T19:29:30.043] [INFO] default - Server run on the port 8080
-[2023-03-08T19:29:44.711] [INFO] default - Server run on the port 8080
-[2023-03-08T19:31:10.546] [INFO] default - Server run on the port 8080
-[2023-03-08T19:32:19.818] [INFO] default - Server run on the port 8080
-[2023-03-08T19:34:01.570] [INFO] default - Server run on the port 8080
-[2023-03-08T19:34:13.926] [INFO] default - Server run on the port 8080
-[2023-03-08T19:35:25.314] [INFO] default - Server run on the port 8080
-[2023-03-08T19:35:28.690] [ERROR] default - Error: User validation failed: password: Path `password` is required.
-    at ValidationError.inspect (D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\node_modules\mongoose\lib\error\validation.js:50:26)
-    at formatValue (node:internal/util/inspect:806:19)
-    at inspect (node:internal/util/inspect:365:10)
-    at formatWithOptionsInternal (node:internal/util/inspect:2273:40)
-    at Object.format (node:internal/util/inspect:2130:10)
-    at basicLayout (D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\node_modules\log4js\lib\layouts.js:65:52)
-    at app (D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\node_modules\log4js\lib\appenders\file.js:98:23)
-    at D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\node_modules\log4js\lib\log4js.js:43:5
-    at Array.forEach (<anonymous>)
-    at sendLogEventToAppender (D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\node_modules\log4js\lib\log4js.js:42:21) {
-  errors: {
-    password: ValidatorError: Path `password` is required.
-        at validate (D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\node_modules\mongoose\lib\schematype.js:1346:13)
-        at SchemaString.SchemaType.doValidate (D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\node_modules\mongoose\lib\schematype.js:1330:7)
-        at D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\node_modules\mongoose\lib\document.js:2905:18
-        at processTicksAndRejections (node:internal/process/task_queues:77:11) {
-      properties: [Object],
-      kind: 'required',
-      path: 'password',
-      value: undefined,
-      reason: undefined,
-      [Symbol(mongoose:validatorError)]: true
-    }
-  },
-  _message: 'User validation failed'
-}
-[2023-03-08T19:35:55.331] [ERROR] default - MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
-    at NativeConnection.Connection.openUri (D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\node_modules\mongoose\lib\connection.js:825:32)
-    at Mongoose.createConnection (D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\node_modules\mongoose\lib\index.js:353:10)
-    at Object.<anonymous> (D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\src\db\db.ts:5:33)
-    at Module._compile (node:internal/modules/cjs/loader:1159:14)
-    at Module.m._compile (D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\node_modules\ts-node\src\index.ts:1618:23)
-    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
-    at Object.require.extensions.<computed> [as .ts] (D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\node_modules\ts-node\src\index.ts:1621:12)
-    at Module.load (node:internal/modules/cjs/loader:1037:32)
-    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
-    at Module.require (node:internal/modules/cjs/loader:1061:19) {
-  reason: TopologyDescription {
-    type: 'Unknown',
-    servers: Map(1) { 'localhost:27017' => [ServerDescription] },
-    stale: false,
-    compatible: true,
-    heartbeatFrequencyMS: 10000,
-    localThresholdMS: 15,
-    setName: null,
-    maxElectionId: null,
-    maxSetVersion: null,
-    commonWireVersion: 0,
-    logicalSessionTimeoutMinutes: null
-  },
-  code: undefined
-}
-[2023-03-08T19:36:53.068] [INFO] default - Server run on the port 8080
-[2023-03-08T19:36:55.930] [ERROR] default - User validation failed: password: Path `password` is required.
-[2023-03-08T19:37:23.068] [ERROR] default - MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
-    at NativeConnection.Connection.openUri (D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\node_modules\mongoose\lib\connection.js:825:32)
-    at Mongoose.createConnection (D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\node_modules\mongoose\lib\index.js:353:10)
-    at Object.<anonymous> (D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\src\db\db.ts:5:33)
-    at Module._compile (node:internal/modules/cjs/loader:1159:14)
-    at Module.m._compile (D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\node_modules\ts-node\src\index.ts:1618:23)
-    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
-    at Object.require.extensions.<computed> [as .ts] (D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\node_modules\ts-node\src\index.ts:1621:12)
-    at Module.load (node:internal/modules/cjs/loader:1037:32)
-    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
-    at Module.require (node:internal/modules/cjs/loader:1061:19) {
-  reason: TopologyDescription {
-    type: 'Unknown',
-    servers: Map(1) { 'localhost:27017' => [ServerDescription] },
-    stale: false,
-    compatible: true,
-    heartbeatFrequencyMS: 10000,
-    localThresholdMS: 15,
-    setName: null,
-    maxElectionId: null,
-    maxSetVersion: null,
-    commonWireVersion: 0,
-    logicalSessionTimeoutMinutes: null
-  },
-  code: undefined
-}
-[2023-03-08T19:37:24.348] [ERROR] default - Operation `users.insertOne()` buffering timed out after 10000ms
-[2023-03-08T19:38:01.219] [INFO] default - Server run on the port 8080
-[2023-03-08T19:38:27.382] [ERROR] default - Operation `users.insertOne()` buffering timed out after 10000ms
-[2023-03-08T19:38:31.192] [ERROR] default - MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
-    at NativeConnection.Connection.openUri (D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\node_modules\mongoose\lib\connection.js:825:32)
-    at Mongoose.createConnection (D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\node_modules\mongoose\lib\index.js:353:10)
-    at Object.<anonymous> (D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\src\db\db.ts:5:33)
-    at Module._compile (node:internal/modules/cjs/loader:1159:14)
-    at Module.m._compile (D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\node_modules\ts-node\src\index.ts:1618:23)
-    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
-    at Object.require.extensions.<computed> [as .ts] (D:\Software Development\Node Express Mongo TypeScript\Architecture\Rest API\node_modules\ts-node\src\index.ts:1621:12)
-    at Module.load (node:internal/modules/cjs/loader:1037:32)
-    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
-    at Module.require (node:internal/modules/cjs/loader:1061:19) {
-  reason: TopologyDescription {
-    type: 'Unknown',
-    servers: Map(1) { 'localhost:27017' => [ServerDescription] },
-    stale: false,
-    compatible: true,
-    heartbeatFrequencyMS: 10000,
-    localThresholdMS: 15,
-    setName: null,
-    maxElectionId: null,
-    maxSetVersion: null,
-    commonWireVersion: 0,
-    logicalSessionTimeoutMinutes: null
-  },
-  code: undefined
-}
-[2023-03-08T19:38:40.802] [INFO] default - Server run on the port 8080
-[2023-03-08T19:39:00.178] [ERROR] default - Operation `users.insertOne()` buffering timed out after 10000ms
-[2023-03-08T19:39:30.576] [INFO] default - Server run on the port 8080
-[2023-03-08T19:39:48.841] [ERROR] default - Operation `users.insertOne()` buffering timed out after 10000ms
-[2023-03-08T19:40:10.677] [INFO] default - Server run on the port 8080
-[2023-03-08T19:40:25.246] [ERROR] default - Operation `users.insertOne()` buffering timed out after 10000ms
-[2023-03-08T19:41:09.016] [INFO] default - Server run on the port 8080
-[2023-03-08T19:41:22.781] [ERROR] default - Operation `users.insertOne()` buffering timed out after 10000ms
-[2023-03-08T19:41:40.903] [INFO] default - Server run on the port 8080
-[2023-03-08T19:42:00.744] [ERROR] default - Operation `users.insertOne()` buffering timed out after 10000ms
-[2023-03-08T19:55:00.245] [INFO] default - Server run on the port 8080
-[2023-03-08T19:55:08.900] [INFO] default - Server run on the port 8080
-[2023-03-08T20:04:45.786] [ERROR] default - connect ECONNREFUSED ::1:27017
-[2023-03-08T20:09:15.421] [INFO] default - Server run on the port 8080
-[2023-03-08T20:09:49.368] [INFO] default - Server run on the port 8080
-[2023-03-08T20:10:05.196] [INFO] default - Server run on the port 8080
-[2023-03-08T20:10:17.374] [INFO] default - Server run on the port 8080
-[2023-03-08T20:13:13.805] [INFO] default - Server run on the port 8080
-[2023-03-08T20:13:32.374] [ERROR] default - Operation `users.insertOne()` buffering timed out after 10000ms
-[2023-03-08T20:17:19.268] [INFO] default - Server run on the port 8080
-[2023-03-08T20:18:07.242] [INFO] default - Server run on the port 8080
-[2023-03-08T20:18:21.889] [INFO] default - Server run on the port 8080
-[2023-03-08T20:19:35.501] [ERROR] default - Route not found!
-[2023-03-08T20:19:36.800] [ERROR] default - Route not found!
-[2023-03-08T20:20:35.314] [INFO] default - Server run on the port 8080
-[2023-03-08T20:20:47.541] [ERROR] default - E11000 duplicate key error collection: journal.users index: email_1 dup key: { email: "hrifat450@gmail.com" }
-[2023-03-08T20:21:16.284] [INFO] default - Server run on the port 8080
-[2023-03-08T20:23:09.840] [INFO] default - Server run on the port 8080
-[2023-03-08T23:38:50.479] [INFO] default - Server run on the port 8080
-[2023-03-08T23:39:27.584] [ERROR] default - Route not found!
-[2023-03-08T23:39:27.585] [ERROR] default - undefined
-[2023-03-08T23:42:44.400] [INFO] default - Server run on the port 8080
-[2023-03-08T23:42:44.519] [ERROR] default - Route not found!
-[2023-03-08T23:42:44.520] [ERROR] default - undefined
-[2023-03-08T23:43:06.289] [INFO] default - Server run on the port 8080
-[2023-03-08T23:43:06.512] [ERROR] default - Failed to lookup view "pages/index" in views directory "D:\Software Development\Node Express Mongo TypeScript\Architecture\Server-Client-Attached\src\views"
-[2023-03-08T23:43:27.102] [INFO] default - Server run on the port 8080
-[2023-03-08T23:44:31.900] [INFO] default - Server run on the port 8080
-[2023-03-08T23:45:11.353] [INFO] default - Server run on the port 8080
-[2023-03-08T23:47:58.878] [INFO] default - Server run on the port 8080
-[2023-03-08T23:48:12.124] [INFO] default - Server run on the port 8080
-[2023-03-08T23:49:34.714] [ERROR] default - Route not found!
-[2023-03-08T23:49:34.716] [ERROR] default - undefined
-[2023-03-08T23:51:55.448] [INFO] default - Server run on the port 8080
-[2023-03-08T23:52:04.910] [INFO] default - Server run on the port 8080
-[2023-03-08T23:52:08.211] [ERROR] default - Route not found!
-[2023-03-08T23:52:08.212] [ERROR] default - undefined
-[2023-03-08T23:52:39.380] [INFO] default - Server run on the port 8080
-[2023-03-08T23:52:47.081] [INFO] default - Server run on the port 8080
-[2023-03-08T23:52:54.546] [INFO] default - Server run on the port 8080
-[2023-03-08T23:54:49.016] [ERROR] default - Could not find matching close tag for "<%".
-[2023-03-08T23:54:53.874] [ERROR] default - Could not find matching close tag for "<%".
-[2023-03-08T23:56:53.824] [ERROR] default - Route not found!
-[2023-03-08T23:56:53.826] [ERROR] default - undefined
-[2023-03-08T23:58:50.445] [INFO] default - Server run on the port 8080
-[2023-03-08T23:59:56.958] [INFO] default - Server run on the port 8080
-[2023-03-09T00:03:55.562] [ERROR] default - Route not found!
-[2023-03-09T00:03:55.563] [ERROR] default - undefined
-[2023-03-09T00:04:03.483] [ERROR] default - Route not found!
-[2023-03-09T00:04:03.484] [ERROR] default - undefined
-[2023-03-09T00:04:09.920] [ERROR] default - Route not found!
-[2023-03-09T00:04:09.921] [ERROR] default - undefined
-[2023-03-09T00:05:20.785] [INFO] default - Server run on the port 8080
-[2023-03-09T00:05:27.802] [ERROR] default - Route not found!
-[2023-03-09T00:05:27.802] [ERROR] default - undefined
-[2023-03-09T00:05:31.788] [ERROR] default - Route not found!
-[2023-03-09T00:05:31.789] [ERROR] default - undefined
-[2023-03-09T00:06:38.470] [INFO] default - Server run on the port 8080
-[2023-03-09T00:07:22.516] [ERROR] default - Route not found!
-[2023-03-09T00:07:22.584] [ERROR] default - Route not found!
-[2023-03-09T00:07:32.227] [ERROR] default - Route not found!
-[2023-03-09T00:07:36.609] [ERROR] default - Route not found!
-[2023-03-09T00:09:03.567] [ERROR] default - Route not found!
-[2023-03-09T00:09:03.633] [ERROR] default - Route not found!
-[2023-03-09T00:09:52.532] [INFO] default - Server run on the port 8080
-[2023-03-09T00:11:45.439] [INFO] default - Server run on the port 8080
-[2023-03-09T00:11:46.796] [ERROR] default - Route not found!
-[2023-03-09T00:12:01.118] [INFO] default - Server run on the port 8080
-[2023-03-09T00:12:50.653] [ERROR] default - Route not found!
-[2023-03-09T00:12:50.791] [ERROR] default - Route not found!
-[2023-03-09T00:12:55.236] [ERROR] default - Route not found!
-[2023-03-09T00:14:22.978] [ERROR] default - Route not found!
-[2023-03-09T00:14:34.378] [ERROR] default - Route not found!
-[2023-03-09T00:15:49.480] [ERROR] default - Route not found!
-[2023-03-09T00:15:55.633] [ERROR] default - Route not found!
-[2023-03-09T00:16:51.626] [ERROR] default - Route not found!
-[2023-03-09T00:18:02.262] [ERROR] default - Route not found!
-[2023-03-09T00:18:22.496] [ERROR] default - Route not found!
-[2023-03-09T00:18:24.851] [ERROR] default - Route not found!
-[2023-03-09T00:18:40.886] [ERROR] default - Route not found!
-[2023-03-09T00:18:45.713] [ERROR] default - Route not found!
-[2023-03-09T00:19:35.708] [ERROR] default - Route not found!
-[2023-03-09T00:19:48.537] [ERROR] default - Route not found!
-[2023-03-09T00:19:56.275] [ERROR] default - Route not found!
-[2023-03-10T10:58:03.304] [INFO] default - Server run on the port 3000
-[2023-03-10T10:59:37.425] [ERROR] default - Route not found!
-[2023-03-10T11:03:34.116] [ERROR] default - Route not found!
-[2023-03-10T11:03:34.277] [ERROR] default - Route not found!
-[2023-03-10T11:03:34.450] [ERROR] default - Route not found!
-[2023-03-10T11:03:34.586] [ERROR] default - Route not found!
-[2023-03-10T11:03:34.717] [ERROR] default - Route not found!
-[2023-03-10T11:03:34.866] [ERROR] default - Route not found!
-[2023-03-10T11:13:55.835] [ERROR] default - Route not found!
-[2023-03-10T11:13:55.851] [ERROR] default - Route not found!
-[2023-03-10T11:13:55.857] [ERROR] default - Route not found!
-[2023-03-10T11:13:55.862] [ERROR] default - Route not found!
-[2023-03-10T11:13:55.865] [ERROR] default - Route not found!
-[2023-03-10T11:13:55.868] [ERROR] default - Route not found!
-[2023-03-10T11:13:56.234] [ERROR] default - Route not found!
-[2023-03-10T15:14:34.711] [ERROR] default - Route not found!
-[2023-03-10T15:14:34.724] [ERROR] default - Route not found!
-[2023-03-10T15:14:34.733] [ERROR] default - Route not found!
-[2023-03-10T15:14:34.737] [ERROR] default - Route not found!
-[2023-03-10T15:14:34.741] [ERROR] default - Route not found!
-[2023-03-10T15:14:34.744] [ERROR] default - Route not found!
-[2023-03-10T15:14:34.749] [ERROR] default - Route not found!
-[2023-03-10T15:15:21.863] [ERROR] default - Route not found!
-[2023-03-10T15:15:30.245] [ERROR] default - Route not found!
-[2023-03-10T15:15:41.142] [ERROR] default - Route not found!
-[2023-03-10T15:22:56.584] [ERROR] default - Route not found!
-[2023-03-10T15:22:56.593] [ERROR] default - Route not found!
-[2023-03-10T15:22:56.597] [ERROR] default - Route not found!
-[2023-03-10T15:22:56.602] [ERROR] default - Route not found!
-[2023-03-10T15:22:56.606] [ERROR] default - Route not found!
-[2023-03-10T15:22:56.609] [ERROR] default - Route not found!
-[2023-03-10T15:22:56.613] [ERROR] default - Route not found!
-[2023-03-10T15:22:56.616] [ERROR] default - Route not found!
-[2023-03-10T15:22:56.631] [ERROR] default - Route not found!
-[2023-03-10T15:23:00.483] [ERROR] default - Route not found!
-[2023-03-10T15:24:02.114] [ERROR] default - Route not found!
-[2023-03-10T15:24:02.124] [ERROR] default - Route not found!
-[2023-03-10T15:24:02.129] [ERROR] default - Route not found!
-[2023-03-10T15:24:02.132] [ERROR] default - Route not found!
-[2023-03-10T15:24:02.134] [ERROR] default - Route not found!
-[2023-03-10T15:24:02.139] [ERROR] default - Route not found!
-[2023-03-10T15:24:02.142] [ERROR] default - Route not found!
-[2023-03-10T15:27:24.884] [ERROR] default - Route not found!
-[2023-03-10T15:27:24.894] [ERROR] default - Route not found!
-[2023-03-10T15:27:24.907] [ERROR] default - Route not found!
-[2023-03-10T15:27:24.911] [ERROR] default - Route not found!
-[2023-03-10T15:27:24.916] [ERROR] default - Route not found!
-[2023-03-10T15:27:24.922] [ERROR] default - Route not found!
-[2023-03-10T15:27:24.926] [ERROR] default - Route not found!
-[2023-03-10T15:27:32.604] [ERROR] default - Route not found!
-[2023-03-10T15:27:32.612] [ERROR] default - Route not found!
-[2023-03-10T15:27:32.615] [ERROR] default - Route not found!
-[2023-03-10T15:27:32.620] [ERROR] default - Route not found!
-[2023-03-10T15:27:32.623] [ERROR] default - Route not found!
-[2023-03-10T15:27:32.627] [ERROR] default - Route not found!
-[2023-03-10T15:27:32.630] [ERROR] default - Route not found!
-[2023-03-10T15:27:37.265] [ERROR] default - Route not found!
-[2023-03-10T15:27:37.324] [ERROR] default - Route not found!
-[2023-03-10T15:27:42.964] [ERROR] default - Route not found!
-[2023-03-10T15:27:42.970] [ERROR] default - Route not found!
-[2023-03-10T15:27:42.976] [ERROR] default - Route not found!
-[2023-03-10T15:27:42.979] [ERROR] default - Route not found!
-[2023-03-10T15:27:42.982] [ERROR] default - Route not found!
-[2023-03-10T15:27:42.984] [ERROR] default - Route not found!
-[2023-03-10T15:27:42.990] [ERROR] default - Route not found!
-[2023-03-10T15:27:43.014] [ERROR] default - Route not found!
-[2023-03-10T15:27:43.024] [ERROR] default - Route not found!
-[2023-03-14T00:23:21.631] [INFO] default - Server run on the port 3000
-[2023-03-14T00:24:10.030] [ERROR] default - Route not found!
-[2023-03-14T00:24:10.038] [ERROR] default - Route not found!
-[2023-03-14T00:24:10.046] [ERROR] default - Route not found!
-[2023-03-14T00:24:10.186] [ERROR] default - Route not found!
-[2023-03-14T00:24:10.200] [ERROR] default - Route not found!
-[2023-03-14T00:24:10.207] [ERROR] default - Route not found!
-[2023-03-14T00:24:10.213] [ERROR] default - Route not found!
-[2023-03-14T00:24:11.569] [ERROR] default - Route not found!
-[2023-03-14T00:24:17.436] [ERROR] default - Route not found!
-[2023-03-14T00:24:17.788] [ERROR] default - Route not found!
-[2023-03-14T00:24:17.950] [ERROR] default - Route not found!
-[2023-03-14T00:24:20.917] [ERROR] default - Route not found!
-[2023-03-14T00:25:11.902] [ERROR] default - Route not found!
-[2023-03-14T00:25:12.365] [ERROR] default - Route not found!
-[2023-03-14T00:25:12.554] [ERROR] default - Route not found!
-[2023-03-14T00:26:03.166] [INFO] default - Server run on the port 3000
-[2023-03-14T00:26:58.104] [INFO] default - Server run on the port 3000
-[2023-03-14T00:27:48.227] [ERROR] default - Route not found!
-[2023-03-14T00:27:48.267] [ERROR] default - Route not found!
-[2023-03-14T00:27:48.287] [ERROR] default - Route not found!
-[2023-03-14T00:27:48.298] [ERROR] default - Route not found!
-[2023-03-14T00:27:48.314] [ERROR] default - Route not found!
-[2023-03-14T00:27:48.327] [ERROR] default - Route not found!
-[2023-03-14T00:27:48.334] [ERROR] default - Route not found!
-[2023-03-14T00:27:49.024] [ERROR] default - Route not found!
-[2023-03-14T00:27:51.785] [ERROR] default - Route not found!
-[2023-03-14T00:27:51.795] [ERROR] default - Route not found!
-[2023-03-14T00:27:51.803] [ERROR] default - Route not found!
-[2023-03-14T00:27:51.810] [ERROR] default - Route not found!
-[2023-03-14T00:27:51.816] [ERROR] default - Route not found!
-[2023-03-14T00:27:51.881] [ERROR] default - Route not found!
-[2023-03-14T00:27:51.885] [ERROR] default - Route not found!
-[2023-03-14T00:27:52.405] [ERROR] default - Route not found!
-[2023-03-14T08:27:23.586] [INFO] default - Server run on the port 3000
-[2023-03-14T08:29:03.985] [INFO] default - Server run on the port 3000
-[2023-03-14T08:29:14.771] [ERROR] default - Route not found!
-[2023-03-14T08:29:14.779] [ERROR] default - Route not found!
-[2023-03-14T08:29:14.790] [ERROR] default - Route not found!
-[2023-03-14T08:29:14.794] [ERROR] default - Route not found!
-[2023-03-14T08:29:14.899] [ERROR] default - Route not found!
-[2023-03-14T08:29:14.908] [ERROR] default - Route not found!
-[2023-03-14T08:29:16.851] [ERROR] default - Route not found!
-[2023-03-14T08:35:07.013] [ERROR] default - Route not found!
-[2023-03-14T08:35:07.164] [ERROR] default - Route not found!
-[2023-03-14T08:35:07.239] [ERROR] default - Route not found!
-[2023-03-14T08:35:07.243] [ERROR] default - Route not found!
-[2023-03-14T08:35:07.246] [ERROR] default - Route not found!
-[2023-03-14T08:35:07.249] [ERROR] default - Route not found!
-[2023-03-14T08:35:08.122] [ERROR] default - Route not found!
-[2023-03-14T08:35:11.444] [ERROR] default - Route not found!
-[2023-03-14T08:35:11.450] [ERROR] default - Route not found!
-[2023-03-14T08:35:11.456] [ERROR] default - Route not found!
-[2023-03-14T08:35:11.461] [ERROR] default - Route not found!
-[2023-03-14T08:35:11.484] [ERROR] default - Route not found!
-[2023-03-14T08:35:11.492] [ERROR] default - Route not found!
-[2023-03-14T08:35:12.548] [ERROR] default - Route not found!
-[2023-03-14T08:36:58.720] [ERROR] default - Route not found!
-[2023-03-14T08:36:58.745] [ERROR] default - Route not found!
-[2023-03-14T08:36:58.760] [ERROR] default - Route not found!
-[2023-03-14T08:36:58.787] [ERROR] default - Route not found!
-[2023-03-14T08:36:58.804] [ERROR] default - Route not found!
-[2023-03-14T08:36:59.843] [ERROR] default - Route not found!
-[2023-03-14T08:37:01.131] [ERROR] default - Route not found!
-[2023-03-14T08:37:01.137] [ERROR] default - Route not found!
-[2023-03-14T08:37:01.143] [ERROR] default - Route not found!
-[2023-03-14T08:37:01.150] [ERROR] default - Route not found!
-[2023-03-14T08:37:01.174] [ERROR] default - Route not found!
-[2023-03-14T08:37:01.842] [ERROR] default - Route not found!
-[2023-03-14T08:37:45.314] [ERROR] default - Route not found!
-[2023-03-14T08:37:45.327] [ERROR] default - Route not found!
-[2023-03-14T08:37:45.329] [ERROR] default - Route not found!
-[2023-03-14T08:37:45.338] [ERROR] default - Route not found!
-[2023-03-14T08:37:45.357] [ERROR] default - Route not found!
-[2023-03-14T08:37:49.328] [ERROR] default - Route not found!
-[2023-03-14T08:42:07.271] [ERROR] default - Route not found!
-[2023-03-14T08:42:07.326] [ERROR] default - Route not found!
-[2023-03-14T08:42:07.365] [ERROR] default - Route not found!
-[2023-03-14T08:42:07.380] [ERROR] default - Route not found!
-[2023-03-14T08:42:08.347] [ERROR] default - Route not found!
-[2023-03-14T08:43:09.733] [ERROR] default - Route not found!
-[2023-03-14T08:43:09.765] [ERROR] default - Route not found!
-[2023-03-14T08:43:09.783] [ERROR] default - Route not found!
-[2023-03-14T08:43:09.791] [ERROR] default - Route not found!
-[2023-03-14T08:43:10.418] [ERROR] default - Route not found!
-[2023-03-14T09:05:12.768] [INFO] default - Server run on the port 3000
-[2023-03-14T09:05:29.861] [ERROR] default - Route not found!
-[2023-03-14T09:05:29.871] [ERROR] default - Route not found!
-[2023-03-14T09:05:29.875] [ERROR] default - Route not found!
-[2023-03-14T09:05:29.942] [ERROR] default - Route not found!
-[2023-03-14T09:05:31.055] [ERROR] default - Route not found!
-[2023-03-14T09:05:32.631] [ERROR] default - Route not found!
-[2023-03-14T09:05:32.636] [ERROR] default - Route not found!
-[2023-03-14T09:05:32.642] [ERROR] default - Route not found!
-[2023-03-14T09:05:32.696] [ERROR] default - Route not found!
-[2023-03-14T09:05:32.708] [ERROR] default - Route not found!
-[2023-03-14T09:05:32.713] [ERROR] default - Route not found!
-[2023-03-14T09:05:32.717] [ERROR] default - Route not found!
-[2023-03-14T09:05:33.313] [ERROR] default - Route not found!
-[2023-03-14T09:07:01.127] [ERROR] default - Route not found!
-[2023-03-14T09:07:01.135] [ERROR] default - Route not found!
-[2023-03-14T09:07:01.140] [ERROR] default - Route not found!
-[2023-03-14T09:07:01.156] [ERROR] default - Route not found!
-[2023-03-14T09:07:01.169] [ERROR] default - Route not found!
-[2023-03-14T09:07:02.415] [ERROR] default - Route not found!
-[2023-03-14T09:07:23.120] [ERROR] default - Route not found!
-[2023-03-14T09:07:23.183] [ERROR] default - Route not found!
-[2023-03-14T09:07:23.188] [ERROR] default - Route not found!
-[2023-03-14T09:07:23.192] [ERROR] default - Route not found!
-[2023-03-14T09:07:23.703] [ERROR] default - Route not found!
-[2023-03-14T09:09:52.852] [ERROR] default - Route not found!
-[2023-03-14T09:09:54.134] [ERROR] default - Route not found!
-[2023-03-14T09:09:54.136] [ERROR] default - Route not found!
-[2023-03-14T09:09:55.525] [ERROR] default - Route not found!
-[2023-03-14T09:09:55.923] [ERROR] default - Route not found!
-[2023-03-14T09:09:58.308] [ERROR] default - Route not found!
-[2023-03-14T09:09:58.785] [ERROR] default - Route not found!
-[2023-03-14T09:11:01.533] [INFO] default - Server run on the port 3000
-[2023-03-14T09:11:02.258] [ERROR] default - Route not found!
-[2023-03-14T09:11:02.447] [ERROR] default - Route not found!
-[2023-03-14T09:11:02.452] [ERROR] default - Route not found!
-[2023-03-14T09:11:02.457] [ERROR] default - Route not found!
-[2023-03-14T09:11:02.468] [ERROR] default - Route not found!
-[2023-03-14T09:11:03.650] [ERROR] default - Route not found!
-[2023-03-14T09:11:35.282] [INFO] default - Server run on the port 3000
-[2023-03-14T09:11:36.091] [ERROR] default - Route not found!
-[2023-03-14T09:11:38.766] [ERROR] default - Route not found!
-[2023-03-14T09:11:38.792] [ERROR] default - Route not found!
-[2023-03-14T09:11:38.798] [ERROR] default - Route not found!
-[2023-03-14T09:11:38.828] [ERROR] default - Route not found!
-[2023-03-14T09:11:39.337] [ERROR] default - Route not found!
-[2023-03-14T09:11:40.231] [ERROR] default - Route not found!
-[2023-03-14T09:11:40.238] [ERROR] default - Route not found!
-[2023-03-14T09:11:40.242] [ERROR] default - Route not found!
-[2023-03-14T09:11:40.272] [ERROR] default - Route not found!
-[2023-03-14T09:11:40.278] [ERROR] default - Route not found!
-[2023-03-14T09:11:40.724] [ERROR] default - Route not found!
-[2023-03-14T09:11:43.586] [ERROR] default - Route not found!
-[2023-03-14T09:11:43.592] [ERROR] default - Route not found!
-[2023-03-14T09:11:43.598] [ERROR] default - Route not found!
-[2023-03-14T09:11:43.639] [ERROR] default - Route not found!
-[2023-03-14T09:11:44.041] [ERROR] default - Route not found!
-[2023-03-14T09:11:44.976] [ERROR] default - Route not found!
-[2023-03-14T09:11:45.389] [ERROR] default - Route not found!
-[2023-03-14T09:11:47.974] [ERROR] default - Route not found!
-[2023-03-14T09:11:49.037] [ERROR] default - Route not found!
-[2023-03-14T09:11:49.046] [ERROR] default - Route not found!
-[2023-03-14T09:11:49.055] [ERROR] default - Route not found!
-[2023-03-14T09:11:49.091] [ERROR] default - Route not found!
-[2023-03-14T09:11:49.104] [ERROR] default - Route not found!
-[2023-03-14T09:11:49.520] [ERROR] default - Route not found!
-[2023-03-14T09:13:13.676] [ERROR] default - Route not found!
-[2023-03-14T09:13:13.684] [ERROR] default - Route not found!
-[2023-03-14T09:13:13.688] [ERROR] default - Route not found!
-[2023-03-14T09:13:14.067] [ERROR] default - Route not found!
-[2023-03-14T09:13:14.544] [ERROR] default - Route not found!
-[2023-03-14T09:17:28.289] [ERROR] default - Route not found!
-[2023-03-14T09:17:28.299] [ERROR] default - Route not found!
-[2023-03-14T09:17:28.301] [ERROR] default - Route not found!
-[2023-03-14T09:17:28.320] [ERROR] default - Route not found!
-[2023-03-14T09:17:28.912] [ERROR] default - Route not found!
-[2023-03-14T09:17:32.459] [ERROR] default - Route not found!
-[2023-03-14T09:17:32.461] [ERROR] default - Route not found!
-[2023-03-14T09:17:32.469] [ERROR] default - Route not found!
-[2023-03-14T09:17:32.485] [ERROR] default - Route not found!
-[2023-03-14T09:17:33.639] [ERROR] default - Route not found!
-[2023-03-14T09:18:03.690] [ERROR] default - Route not found!
-[2023-03-14T09:18:03.695] [ERROR] default - Route not found!
-[2023-03-14T09:18:03.700] [ERROR] default - Route not found!
-[2023-03-14T09:18:03.726] [ERROR] default - Route not found!
-[2023-03-14T09:18:04.226] [ERROR] default - Route not found!
-[2023-03-14T09:18:38.293] [ERROR] default - Route not found!
-[2023-03-14T09:18:38.307] [ERROR] default - Route not found!
-[2023-03-14T09:18:38.312] [ERROR] default - Route not found!
-[2023-03-14T09:18:38.339] [ERROR] default - Route not found!
-[2023-03-14T09:18:38.837] [ERROR] default - Route not found!
-[2023-03-14T09:18:43.520] [ERROR] default - Route not found!
-[2023-03-14T09:18:43.528] [ERROR] default - Route not found!
-[2023-03-14T09:18:43.535] [ERROR] default - Route not found!
-[2023-03-14T09:18:43.570] [ERROR] default - Route not found!
-[2023-03-14T09:18:44.236] [ERROR] default - Route not found!
-[2023-03-14T09:18:48.812] [ERROR] default - Route not found!
-[2023-03-14T09:18:48.816] [ERROR] default - Route not found!
-[2023-03-14T09:18:48.820] [ERROR] default - Route not found!
-[2023-03-14T09:18:48.873] [ERROR] default - Route not found!
-[2023-03-14T09:18:49.578] [ERROR] default - Route not found!
-[2023-03-14T09:18:50.360] [ERROR] default - Route not found!
-[2023-03-14T09:18:50.374] [ERROR] default - Route not found!
-[2023-03-14T09:18:50.394] [ERROR] default - Route not found!
-[2023-03-14T09:18:50.405] [ERROR] default - Route not found!
-[2023-03-14T09:18:50.896] [ERROR] default - Route not found!
-[2023-03-14T09:18:56.733] [ERROR] default - Route not found!
-[2023-03-14T09:18:56.750] [ERROR] default - Route not found!
-[2023-03-14T09:18:56.759] [ERROR] default - Route not found!
-[2023-03-14T09:18:56.783] [ERROR] default - Route not found!
-[2023-03-14T09:18:57.175] [ERROR] default - Route not found!
-[2023-03-14T09:18:59.300] [ERROR] default - Route not found!
-[2023-03-14T09:18:59.304] [ERROR] default - Route not found!
-[2023-03-14T09:18:59.307] [ERROR] default - Route not found!
-[2023-03-14T09:18:59.350] [ERROR] default - Route not found!
-[2023-03-14T09:18:59.805] [ERROR] default - Route not found!
-[2023-03-14T09:19:05.353] [ERROR] default - Route not found!
-[2023-03-14T09:19:05.372] [ERROR] default - Route not found!
-[2023-03-14T09:19:05.382] [ERROR] default - Route not found!
-[2023-03-14T09:19:05.385] [ERROR] default - Route not found!
-[2023-03-14T09:19:05.924] [ERROR] default - Route not found!
-[2023-03-14T09:19:42.710] [ERROR] default - D:\2023-projects\Journal Backend\Journal\src\views\journal-details.ejs:13
-    11| 
-    12| <body>
- >> 13|     <%- include('components/topnav2'); %>
-    14|         <%- include('components/banner'); %>
-    15|             <!-- body -->
-    16|             <div class="container-fluid p-4 bg-light">
-
-Could not find the include file "components/topnav2"
-[2023-03-14T09:19:44.568] [ERROR] default - Route not found!
-[2023-03-14T09:21:48.485] [ERROR] default - Route not found!
-[2023-03-14T09:21:48.501] [ERROR] default - Route not found!
-[2023-03-14T09:21:48.503] [ERROR] default - Route not found!
-[2023-03-14T09:21:48.537] [ERROR] default - Route not found!
-[2023-03-14T09:21:48.541] [ERROR] default - Route not found!
-[2023-03-14T09:21:49.142] [ERROR] default - Route not found!
-[2023-03-14T09:22:07.535] [ERROR] default - Route not found!
-[2023-03-14T09:22:07.539] [ERROR] default - Route not found!
-[2023-03-14T09:22:07.543] [ERROR] default - Route not found!
-[2023-03-14T09:22:07.552] [ERROR] default - Route not found!
-[2023-03-14T09:22:07.574] [ERROR] default - Route not found!
-[2023-03-14T09:22:08.185] [ERROR] default - Route not found!
-[2023-03-14T09:23:17.434] [ERROR] default - Route not found!
-[2023-03-14T09:23:17.720] [ERROR] default - Route not found!
-[2023-03-14T09:23:17.731] [ERROR] default - Route not found!
-[2023-03-14T09:23:17.737] [ERROR] default - Route not found!
-[2023-03-14T09:23:18.299] [ERROR] default - Route not found!
-[2023-03-14T09:23:32.966] [ERROR] default - Route not found!
-[2023-03-14T09:23:33.285] [ERROR] default - Route not found!
-[2023-03-14T09:23:41.477] [ERROR] default - Route not found!
-[2023-03-14T09:23:44.174] [ERROR] default - Route not found!
-[2023-03-14T09:29:54.885] [INFO] default - Server run on the port 3000
-[2023-03-14T09:30:21.565] [INFO] default - Server run on the port 3000
-[2023-03-14T09:35:30.844] [INFO] default - Server run on the port 3000
-[2023-03-14T09:35:38.005] [INFO] default - Server run on the port 3000
-[2023-03-14T09:36:05.717] [ERROR] default - Route not found!
-[2023-03-14T09:36:05.723] [ERROR] default - Route not found!
-[2023-03-14T09:36:05.727] [ERROR] default - Route not found!
-[2023-03-14T09:36:05.757] [ERROR] default - Route not found!
-[2023-03-14T09:36:06.435] [ERROR] default - Route not found!
-[2023-03-14T09:36:07.254] [ERROR] default - Route not found!
-[2023-03-14T09:36:07.263] [ERROR] default - Route not found!
-[2023-03-14T09:36:07.268] [ERROR] default - Route not found!
-[2023-03-14T09:36:07.292] [ERROR] default - Route not found!
-[2023-03-14T09:36:07.886] [ERROR] default - Route not found!
-[2023-03-14T09:36:09.573] [ERROR] default - Route not found!
-[2023-03-14T09:36:09.588] [ERROR] default - Route not found!
-[2023-03-14T09:36:09.594] [ERROR] default - Route not found!
-[2023-03-14T09:36:09.598] [ERROR] default - Route not found!
-[2023-03-14T09:36:09.605] [ERROR] default - Route not found!
-[2023-03-14T09:36:09.609] [ERROR] default - Route not found!
-[2023-03-14T09:36:09.612] [ERROR] default - Route not found!
-[2023-03-14T09:36:09.616] [ERROR] default - Route not found!
-[2023-03-14T09:36:09.645] [ERROR] default - Route not found!
-[2023-03-14T09:36:09.660] [ERROR] default - Route not found!
-[2023-03-14T09:36:09.669] [ERROR] default - Route not found!
-[2023-03-14T09:36:09.785] [ERROR] default - Route not found!
-[2023-03-14T09:38:52.253] [ERROR] default - Route not found!
-[2023-03-14T09:38:52.264] [ERROR] default - Route not found!
-[2023-03-14T09:38:52.268] [ERROR] default - Route not found!
-[2023-03-14T09:38:52.276] [ERROR] default - Route not found!
-[2023-03-14T09:38:52.622] [ERROR] default - Route not found!
-[2023-03-14T09:38:57.054] [ERROR] default - Route not found!
-[2023-03-14T09:38:57.057] [ERROR] default - Route not found!
-[2023-03-14T09:38:57.062] [ERROR] default - Route not found!
-[2023-03-14T09:38:57.077] [ERROR] default - Route not found!
-[2023-03-14T09:38:57.403] [ERROR] default - Route not found!
-[2023-03-14T09:39:38.758] [ERROR] default - Route not found!
-[2023-03-14T09:39:38.768] [ERROR] default - Route not found!
-[2023-03-14T09:39:38.774] [ERROR] default - Route not found!
-[2023-03-14T09:39:38.803] [ERROR] default - Route not found!
-[2023-03-14T09:39:39.056] [ERROR] default - Route not found!
-[2023-03-14T09:39:48.465] [ERROR] default - Route not found!
-[2023-03-14T09:39:48.471] [ERROR] default - Route not found!
-[2023-03-14T09:39:48.476] [ERROR] default - Route not found!
-[2023-03-14T09:39:48.507] [ERROR] default - Route not found!
-[2023-03-14T09:39:48.834] [ERROR] default - Route not found!
-[2023-03-14T09:39:53.347] [ERROR] default - Route not found!
-[2023-03-14T09:39:53.351] [ERROR] default - Route not found!
-[2023-03-14T09:39:53.371] [ERROR] default - Route not found!
-[2023-03-14T09:39:53.381] [ERROR] default - Route not found!
-[2023-03-14T09:39:53.386] [ERROR] default - Route not found!
-[2023-03-14T09:39:53.389] [ERROR] default - Route not found!
-[2023-03-14T09:39:53.418] [ERROR] default - Route not found!
-[2023-03-14T09:39:53.529] [ERROR] default - Route not found!
-[2023-03-14T09:40:56.615] [ERROR] default - Route not found!
-[2023-03-14T09:40:56.624] [ERROR] default - Route not found!
-[2023-03-14T09:40:56.671] [ERROR] default - Route not found!
-[2023-03-14T09:40:56.673] [ERROR] default - Route not found!
-[2023-03-14T09:40:56.675] [ERROR] default - Route not found!
-[2023-03-14T09:40:56.678] [ERROR] default - Route not found!
-[2023-03-14T09:40:56.718] [ERROR] default - Route not found!
-[2023-03-14T09:40:56.869] [ERROR] default - Route not found!
-[2023-03-14T09:41:28.241] [ERROR] default - Route not found!
-[2023-03-14T09:41:48.495] [ERROR] default - Route not found!
-[2023-03-14T09:41:48.498] [ERROR] default - Route not found!
-[2023-03-14T09:41:48.505] [ERROR] default - Route not found!
-[2023-03-14T09:41:48.514] [ERROR] default - Route not found!
-[2023-03-14T09:41:48.520] [ERROR] default - Route not found!
-[2023-03-14T09:41:48.523] [ERROR] default - Route not found!
-[2023-03-14T09:41:48.557] [ERROR] default - Route not found!
-[2023-03-14T09:41:48.656] [ERROR] default - Route not found!
-[2023-03-14T09:41:51.189] [ERROR] default - Route not found!
-[2023-03-14T09:41:51.192] [ERROR] default - Route not found!
-[2023-03-14T09:41:51.198] [ERROR] default - Route not found!
-[2023-03-14T09:41:51.205] [ERROR] default - Route not found!
-[2023-03-14T09:41:51.211] [ERROR] default - Route not found!
-[2023-03-14T09:41:51.214] [ERROR] default - Route not found!
-[2023-03-14T09:41:51.232] [ERROR] default - Route not found!
-[2023-03-14T09:41:51.369] [ERROR] default - Route not found!
-[2023-03-14T09:43:18.957] [ERROR] default - Route not found!
-[2023-03-14T09:43:21.136] [ERROR] default - Route not found!
-[2023-03-14T09:43:21.442] [ERROR] default - Route not found!
-[2023-03-14T09:43:23.486] [ERROR] default - Route not found!
-[2023-03-14T09:43:26.362] [ERROR] default - Route not found!
-[2023-03-14T09:43:29.085] [ERROR] default - Route not found!
-[2023-03-14T09:43:29.094] [ERROR] default - Route not found!
-[2023-03-14T09:43:29.097] [ERROR] default - Route not found!
-[2023-03-14T09:43:29.130] [ERROR] default - Route not found!
-[2023-03-14T09:43:29.515] [ERROR] default - Route not found!
-[2023-03-14T09:43:36.402] [ERROR] default - Route not found!
-[2023-03-14T09:43:36.406] [ERROR] default - Route not found!
-[2023-03-14T09:43:36.409] [ERROR] default - Route not found!
-[2023-03-14T09:43:36.425] [ERROR] default - Route not found!
-[2023-03-14T09:43:37.553] [ERROR] default - Route not found!
-[2023-03-14T09:44:04.905] [ERROR] default - Route not found!
-[2023-03-14T09:44:04.910] [ERROR] default - Route not found!
-[2023-03-14T09:44:04.918] [ERROR] default - Route not found!
-[2023-03-14T09:44:04.963] [ERROR] default - Route not found!
-[2023-03-14T09:44:04.978] [ERROR] default - Route not found!
-[2023-03-14T09:44:05.816] [ERROR] default - Route not found!
-[2023-03-14T09:46:23.995] [ERROR] default - Route not found!
-[2023-03-14T09:46:23.999] [ERROR] default - Route not found!
-[2023-03-14T09:46:24.003] [ERROR] default - Route not found!
-[2023-03-14T09:46:24.030] [ERROR] default - Route not found!
-[2023-03-14T09:46:24.038] [ERROR] default - Route not found!
-[2023-03-14T09:46:24.525] [ERROR] default - Route not found!
-[2023-03-14T09:47:08.256] [ERROR] default - Route not found!
-[2023-03-14T09:47:08.260] [ERROR] default - Route not found!
-[2023-03-14T09:47:08.264] [ERROR] default - Route not found!
-[2023-03-14T09:47:08.287] [ERROR] default - Route not found!
-[2023-03-14T09:47:08.778] [ERROR] default - Route not found!
-[2023-03-14T09:47:12.806] [ERROR] default - Route not found!
-[2023-03-14T09:47:12.811] [ERROR] default - Route not found!
-[2023-03-14T09:47:12.822] [ERROR] default - Route not found!
-[2023-03-14T09:47:12.859] [ERROR] default - Route not found!
-[2023-03-14T09:47:13.039] [ERROR] default - Route not found!
-[2023-03-14T09:47:16.994] [ERROR] default - Route not found!
-[2023-03-14T09:47:16.997] [ERROR] default - Route not found!
-[2023-03-14T09:47:17.002] [ERROR] default - Route not found!
-[2023-03-14T09:47:17.004] [ERROR] default - Route not found!
-[2023-03-14T09:47:17.017] [ERROR] default - Route not found!
-[2023-03-14T09:47:17.024] [ERROR] default - Route not found!
-[2023-03-14T09:47:17.058] [ERROR] default - Route not found!
-[2023-03-14T09:47:17.159] [ERROR] default - Route not found!
-[2023-03-14T09:48:11.101] [ERROR] default - Route not found!
-[2023-03-14T09:48:11.109] [ERROR] default - Route not found!
-[2023-03-14T09:48:11.116] [ERROR] default - Route not found!
-[2023-03-14T09:48:11.149] [ERROR] default - Route not found!
-[2023-03-14T09:48:11.163] [ERROR] default - Route not found!
-[2023-03-14T09:48:11.310] [ERROR] default - Route not found!
-[2023-03-14T09:49:01.493] [ERROR] default - Route not found!
-[2023-03-14T09:49:01.498] [ERROR] default - Route not found!
-[2023-03-14T09:49:01.509] [ERROR] default - Route not found!
-[2023-03-14T09:49:01.547] [ERROR] default - Route not found!
-[2023-03-14T09:49:01.695] [ERROR] default - Route not found!
-[2023-03-14T09:49:08.485] [ERROR] default - Route not found!
-[2023-03-14T09:49:08.796] [ERROR] default - Route not found!
+[2023-03-15T00:53:27.778] [ERROR] default - Route not found!
+[2023-03-15T00:53:27.782] [ERROR] default - Route not found!
+[2023-03-15T00:53:27.789] [ERROR] default - Route not found!
+[2023-03-15T00:53:27.792] [ERROR] default - Route not found!
+[2023-03-15T00:53:30.931] [ERROR] default - Route not found!
+[2023-03-15T00:53:30.934] [ERROR] default - Route not found!
+[2023-03-15T00:53:30.938] [ERROR] default - Route not found!
+[2023-03-15T00:53:30.942] [ERROR] default - Route not found!
+[2023-03-15T09:15:38.538] [INFO] default - Server run on the port 3000
+[2023-03-15T09:19:23.381] [INFO] default - Server run on the port 3000
+[2023-03-15T09:23:27.225] [INFO] default - Server run on the port 3000
+[2023-03-15T09:27:36.802] [INFO] default - Server run on the port 3000
+[2023-03-15T09:28:11.562] [INFO] default - Server run on the port 3000
+[2023-03-15T09:28:48.170] [INFO] default - Server run on the port 3000
+[2023-03-15T09:30:18.859] [ERROR] default - Route not found!
+[2023-03-15T09:30:18.874] [ERROR] default - Route not found!
+[2023-03-15T09:30:18.888] [ERROR] default - Route not found!
+[2023-03-15T09:30:18.900] [ERROR] default - Route not found!
+[2023-03-15T09:31:43.966] [INFO] default - Server run on the port 3000
+[2023-03-15T09:31:59.513] [INFO] default - Server run on the port 3000
+[2023-03-15T09:32:12.585] [ERROR] default - Route not found!
+[2023-03-15T09:32:12.765] [ERROR] default - Route not found!
+[2023-03-15T09:34:08.049] [INFO] default - Server run on the port 3000
+[2023-03-15T09:34:30.607] [INFO] default - Server run on the port 3000
+[2023-03-15T09:35:02.425] [INFO] default - Server run on the port 3000
+[2023-03-15T09:36:24.288] [INFO] default - Server run on the port 3000
+[2023-03-15T09:41:12.455] [INFO] default - Server run on the port 3000
+[2023-03-15T09:42:27.882] [INFO] default - Server run on the port 3000
+[2023-03-15T09:42:37.117] [INFO] default - Server run on the port 3000
+[2023-03-15T09:42:55.913] [INFO] default - Server run on the port 3000
+[2023-03-15T09:43:05.541] [ERROR] default - Route not found!
+[2023-03-15T09:43:05.553] [ERROR] default - Route not found!
+[2023-03-15T09:43:05.557] [ERROR] default - Route not found!
+[2023-03-15T09:43:05.565] [ERROR] default - Route not found!
+[2023-03-15T09:43:18.037] [ERROR] default - Route not found!
+[2023-03-15T09:43:18.039] [ERROR] default - Route not found!
+[2023-03-15T09:43:18.046] [ERROR] default - Route not found!
+[2023-03-15T09:43:18.053] [ERROR] default - Route not found!
+[2023-03-15T09:43:47.740] [INFO] default - Server run on the port 3000
+[2023-03-15T09:44:17.523] [ERROR] default - Route not found!
+[2023-03-15T09:44:17.532] [ERROR] default - Route not found!
+[2023-03-15T09:44:17.538] [ERROR] default - Route not found!
+[2023-03-15T09:44:17.541] [ERROR] default - Route not found!
+[2023-03-15T09:44:55.508] [INFO] default - Server run on the port 3000
+[2023-03-15T09:45:18.566] [ERROR] default - Route not found!
+[2023-03-15T09:45:18.571] [ERROR] default - Route not found!
+[2023-03-15T09:45:18.578] [ERROR] default - Route not found!
+[2023-03-15T09:45:18.581] [ERROR] default - Route not found!
+[2023-03-15T09:45:40.773] [INFO] default - Server run on the port 3000
+[2023-03-15T09:45:56.516] [INFO] default - Server run on the port 3000
+[2023-03-15T09:46:11.942] [ERROR] default - Route not found!
+[2023-03-15T09:46:11.953] [ERROR] default - Route not found!
+[2023-03-15T09:46:11.957] [ERROR] default - Route not found!
+[2023-03-15T09:46:11.960] [ERROR] default - Route not found!
+[2023-03-15T09:46:29.213] [INFO] default - Server run on the port 3000
+[2023-03-15T09:46:42.216] [ERROR] default - Route not found!
+[2023-03-15T09:46:42.221] [ERROR] default - Route not found!
+[2023-03-15T09:46:42.229] [ERROR] default - Route not found!
+[2023-03-15T09:46:42.234] [ERROR] default - Route not found!
+[2023-03-15T09:47:46.135] [INFO] default - Server run on the port 3000
+[2023-03-15T09:48:11.713] [INFO] default - Server run on the port 3000
+[2023-03-15T09:48:24.209] [ERROR] default - Route not found!
+[2023-03-15T09:48:24.220] [ERROR] default - Route not found!
+[2023-03-15T09:48:24.226] [ERROR] default - Route not found!
+[2023-03-15T09:48:24.229] [ERROR] default - Route not found!
+[2023-03-15T09:48:46.155] [INFO] default - Server run on the port 3000
+[2023-03-15T09:48:56.706] [ERROR] default - Route not found!
+[2023-03-15T09:48:56.717] [ERROR] default - Route not found!
+[2023-03-15T09:48:56.727] [ERROR] default - Route not found!
+[2023-03-15T09:48:56.730] [ERROR] default - Route not found!
+[2023-03-16T09:43:02.048] [INFO] default - Server run on the port 3000
+[2023-03-16T09:43:45.443] [INFO] default - Server run on the port 3000
+[2023-03-16T09:43:48.876] [ERROR] default - Route not found!
+[2023-03-16T09:43:48.905] [ERROR] default - Route not found!
+[2023-03-16T09:43:48.910] [ERROR] default - Route not found!
+[2023-03-16T09:43:48.918] [ERROR] default - Route not found!
+[2023-03-16T09:44:08.736] [ERROR] default - Route not found!
+[2023-03-16T09:44:08.744] [ERROR] default - Route not found!
+[2023-03-16T09:44:08.747] [ERROR] default - Route not found!
+[2023-03-16T09:44:08.750] [ERROR] default - Route not found!
+[2023-03-16T09:49:33.637] [INFO] default - Server run on the port 3000
+[2023-03-16T09:50:11.321] [INFO] default - Server run on the port 3000
+[2023-03-16T09:50:15.859] [ERROR] default - Route not found!
+[2023-03-16T09:50:15.872] [ERROR] default - Route not found!
+[2023-03-16T09:50:15.876] [ERROR] default - Route not found!
+[2023-03-16T09:50:15.880] [ERROR] default - Route not found!
+[2023-03-16T09:50:15.887] [ERROR] default - Route not found!
+[2023-03-16T09:50:15.891] [ERROR] default - Route not found!
+[2023-03-16T09:50:19.521] [ERROR] default - Route not found!
+[2023-03-16T09:50:19.529] [ERROR] default - Route not found!
+[2023-03-16T09:50:19.535] [ERROR] default - Route not found!
+[2023-03-16T09:50:19.542] [ERROR] default - Route not found!
+[2023-03-16T09:50:19.547] [ERROR] default - Route not found!
+[2023-03-16T09:50:19.551] [ERROR] default - Route not found!
+[2023-03-16T09:50:21.033] [ERROR] default - Route not found!
+[2023-03-16T09:50:21.037] [ERROR] default - Route not found!
+[2023-03-16T09:50:21.041] [ERROR] default - Route not found!
+[2023-03-16T09:50:21.045] [ERROR] default - Route not found!
+[2023-03-16T09:50:21.049] [ERROR] default - Route not found!
+[2023-03-16T09:50:21.053] [ERROR] default - Route not found!
+[2023-03-16T09:50:21.744] [ERROR] default - Route not found!
+[2023-03-16T09:50:21.748] [ERROR] default - Route not found!
+[2023-03-16T09:50:21.750] [ERROR] default - Route not found!
+[2023-03-16T09:50:21.753] [ERROR] default - Route not found!
+[2023-03-16T09:50:21.759] [ERROR] default - Route not found!
+[2023-03-16T09:50:21.762] [ERROR] default - Route not found!
+[2023-03-16T09:50:22.352] [ERROR] default - Route not found!
+[2023-03-16T09:50:22.357] [ERROR] default - Route not found!
+[2023-03-16T09:50:22.361] [ERROR] default - Route not found!
+[2023-03-16T09:50:22.364] [ERROR] default - Route not found!
+[2023-03-16T09:50:22.367] [ERROR] default - Route not found!
+[2023-03-16T09:50:22.370] [ERROR] default - Route not found!
+[2023-03-16T09:50:22.936] [ERROR] default - Route not found!
+[2023-03-16T09:50:22.942] [ERROR] default - Route not found!
+[2023-03-16T09:50:22.945] [ERROR] default - Route not found!
+[2023-03-16T09:50:22.948] [ERROR] default - Route not found!
+[2023-03-16T09:50:22.951] [ERROR] default - Route not found!
+[2023-03-16T09:50:22.953] [ERROR] default - Route not found!
+[2023-03-16T09:50:23.452] [ERROR] default - Route not found!
+[2023-03-16T09:50:23.456] [ERROR] default - Route not found!
+[2023-03-16T09:50:23.460] [ERROR] default - Route not found!
+[2023-03-16T09:50:23.463] [ERROR] default - Route not found!
+[2023-03-16T09:50:23.467] [ERROR] default - Route not found!
+[2023-03-16T09:50:23.470] [ERROR] default - Route not found!
+[2023-03-16T09:50:24.100] [ERROR] default - Route not found!
+[2023-03-16T09:50:24.104] [ERROR] default - Route not found!
+[2023-03-16T09:50:24.107] [ERROR] default - Route not found!
+[2023-03-16T09:50:24.111] [ERROR] default - Route not found!
+[2023-03-16T09:50:24.113] [ERROR] default - Route not found!
+[2023-03-16T09:50:24.117] [ERROR] default - Route not found!
+[2023-03-16T09:50:24.567] [ERROR] default - Route not found!
+[2023-03-16T09:50:24.570] [ERROR] default - Route not found!
+[2023-03-16T09:50:24.576] [ERROR] default - Route not found!
+[2023-03-16T09:50:24.579] [ERROR] default - Route not found!
+[2023-03-16T09:50:24.582] [ERROR] default - Route not found!
+[2023-03-16T09:50:24.584] [ERROR] default - Route not found!
+[2023-03-16T09:50:43.678] [INFO] default - Server run on the port 3000
+[2023-03-16T09:50:44.340] [ERROR] default - Route not found!
+[2023-03-16T09:50:44.348] [ERROR] default - Route not found!
+[2023-03-16T09:50:44.353] [ERROR] default - Route not found!
+[2023-03-16T09:50:44.359] [ERROR] default - Route not found!
+[2023-03-16T09:50:44.363] [ERROR] default - Route not found!
+[2023-03-16T09:50:44.369] [ERROR] default - Route not found!
+[2023-03-16T09:50:45.564] [ERROR] default - Route not found!
+[2023-03-16T09:50:45.571] [ERROR] default - Route not found!
+[2023-03-16T09:50:45.576] [ERROR] default - Route not found!
+[2023-03-16T09:50:45.580] [ERROR] default - Route not found!
+[2023-03-16T09:50:45.587] [ERROR] default - Route not found!
+[2023-03-16T09:50:45.591] [ERROR] default - Route not found!
+[2023-03-16T09:50:46.174] [ERROR] default - Route not found!
+[2023-03-16T09:50:46.179] [ERROR] default - Route not found!
+[2023-03-16T09:50:46.183] [ERROR] default - Route not found!
+[2023-03-16T09:50:46.188] [ERROR] default - Route not found!
+[2023-03-16T09:50:46.192] [ERROR] default - Route not found!
+[2023-03-16T09:50:46.197] [ERROR] default - Route not found!
+[2023-03-16T09:50:46.708] [ERROR] default - Route not found!
+[2023-03-16T09:50:46.713] [ERROR] default - Route not found!
+[2023-03-16T09:50:46.716] [ERROR] default - Route not found!
+[2023-03-16T09:50:46.720] [ERROR] default - Route not found!
+[2023-03-16T09:50:46.723] [ERROR] default - Route not found!
+[2023-03-16T09:50:46.726] [ERROR] default - Route not found!
+[2023-03-16T09:50:47.228] [ERROR] default - Route not found!
+[2023-03-16T09:50:47.233] [ERROR] default - Route not found!
+[2023-03-16T09:50:47.238] [ERROR] default - Route not found!
+[2023-03-16T09:50:47.241] [ERROR] default - Route not found!
+[2023-03-16T09:50:47.243] [ERROR] default - Route not found!
+[2023-03-16T09:50:47.246] [ERROR] default - Route not found!
+[2023-03-16T09:50:47.625] [ERROR] default - Route not found!
+[2023-03-16T09:50:47.629] [ERROR] default - Route not found!
+[2023-03-16T09:50:47.632] [ERROR] default - Route not found!
+[2023-03-16T09:50:47.637] [ERROR] default - Route not found!
+[2023-03-16T09:50:47.640] [ERROR] default - Route not found!
+[2023-03-16T09:50:47.643] [ERROR] default - Route not found!
+[2023-03-16T09:50:51.626] [ERROR] default - Route not found!
+[2023-03-16T09:50:51.629] [ERROR] default - Route not found!
+[2023-03-16T09:50:51.632] [ERROR] default - Route not found!
+[2023-03-16T09:50:51.637] [ERROR] default - Route not found!
+[2023-03-16T09:50:51.641] [ERROR] default - Route not found!
+[2023-03-16T09:50:51.644] [ERROR] default - Route not found!
+[2023-03-16T09:50:56.613] [ERROR] default - Route not found!
+[2023-03-16T09:50:59.781] [ERROR] default - Route not found!
+[2023-03-16T09:50:59.784] [ERROR] default - Route not found!
+[2023-03-16T09:50:59.788] [ERROR] default - Route not found!
+[2023-03-16T09:50:59.794] [ERROR] default - Route not found!
+[2023-03-16T09:51:11.051] [ERROR] default - Route not found!
+[2023-03-16T09:51:11.058] [ERROR] default - Route not found!
+[2023-03-16T09:51:11.060] [ERROR] default - Route not found!
+[2023-03-16T09:51:11.066] [ERROR] default - Route not found!

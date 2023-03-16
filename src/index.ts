@@ -7,6 +7,9 @@ import logger from './logger/logger';
 import ErrorHandler from './middlewares/errorHandler.middleware';
 import { userRouter } from './modules/users/user.routes';
 import path from "path";
+import session from 'express-session';
+import { IUser } from './modules/users/user.interface';
+import { auth } from './middlewares/auth.middleware';
 
 const app: Application = express();
 const port: number = Number(config.server.port) || 8080;
@@ -14,9 +17,26 @@ const port: number = Number(config.server.port) || 8080;
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
+app.set('trust proxy', 1); // trust first proxy
+
+declare module 'express-session' {
+    interface SessionData {
+        user: IUser;
+    }
+}
 
 // application middleware
 app.use('/static', express.static('public'));
+app.use(session({
+    name: "authorization",
+    secret: String(config.session.secret),
+    resave: false,
+    saveUninitialized: false,
+    cookie: {
+        secure: false, // This will only work if you have https enabled!
+        maxAge: 60000 // 1 min
+    }
+}));
 app.use(express.json());
 app.use('/user', userRouter);
 
@@ -26,7 +46,8 @@ app.get('/', (req: Request, res: Response) => {
     });
 });
 
-app.get('/academic-journal', (req: Request, res: Response) => {
+app.get('/academic-journal', auth('author'), (req: Request, res: Response) => {
+    console.log(req.session);
     return res.render("academic-journal", {
         title: "Journal"
     });
