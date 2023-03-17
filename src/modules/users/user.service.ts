@@ -2,7 +2,7 @@ import { Service } from "../common/common.service";
 import { User } from "./user.model";
 
 
-class ChainService extends Service {
+class UserService extends Service {
     constructor(Model: unknown) {
         super(Model);
     }
@@ -10,7 +10,7 @@ class ChainService extends Service {
     // create extra service here if needed..
 }
 
-const userService = new ChainService(User);
+const userService = new UserService(User);
 
 export {
     userService

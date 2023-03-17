@@ -186,3 +186,84 @@
 [2023-03-16T09:51:11.058] [ERROR] default - Route not found!
 [2023-03-16T09:51:11.060] [ERROR] default - Route not found!
 [2023-03-16T09:51:11.066] [ERROR] default - Route not found!
+[2023-03-17T10:50:23.487] [INFO] default - Server run on the port 3000
+[2023-03-17T10:58:16.704] [INFO] default - Server run on the port 3000
+[2023-03-17T10:58:21.354] [ERROR] default - Route not found!
+[2023-03-17T10:58:21.374] [ERROR] default - Route not found!
+[2023-03-17T10:58:21.422] [ERROR] default - Route not found!
+[2023-03-17T10:58:21.443] [ERROR] default - Route not found!
+[2023-03-17T11:22:39.203] [INFO] default - Server run on the port 3000
+[2023-03-17T11:23:27.551] [INFO] default - Server run on the port 3000
+[2023-03-17T11:23:39.466] [INFO] default - Server run on the port 3000
+[2023-03-17T11:23:48.206] [INFO] default - Server run on the port 3000
+[2023-03-17T11:23:59.116] [INFO] default - Server run on the port 3000
+[2023-03-17T11:26:01.645] [INFO] default - Server run on the port 3000
+[2023-03-17T11:26:11.055] [INFO] default - Server run on the port 3000
+[2023-03-17T11:26:38.589] [INFO] default - Server run on the port 3000
+[2023-03-17T11:27:22.453] [INFO] default - Server run on the port 3000
+[2023-03-17T11:27:35.408] [INFO] default - Server run on the port 3000
+[2023-03-17T11:28:37.008] [INFO] default - Server run on the port 3000
+[2023-03-17T11:29:27.881] [ERROR] default - Route not found!
+[2023-03-17T11:29:27.895] [ERROR] default - Route not found!
+[2023-03-17T11:29:27.905] [ERROR] default - Route not found!
+[2023-03-17T11:29:27.910] [ERROR] default - Route not found!
+[2023-03-17T11:29:27.915] [ERROR] default - Route not found!
+[2023-03-17T11:29:27.921] [ERROR] default - Route not found!
+[2023-03-17T11:29:33.859] [ERROR] default - Route not found!
+[2023-03-17T11:29:39.447] [ERROR] default - Route not found!
+[2023-03-17T11:29:39.458] [ERROR] default - Route not found!
+[2023-03-17T11:29:39.464] [ERROR] default - Route not found!
+[2023-03-17T11:29:39.467] [ERROR] default - Route not found!
+[2023-03-17T11:29:39.472] [ERROR] default - Route not found!
+[2023-03-17T11:29:39.477] [ERROR] default - Route not found!
+[2023-03-17T11:30:10.069] [ERROR] default - Route not found!
+[2023-03-17T11:30:10.081] [ERROR] default - Route not found!
+[2023-03-17T11:30:10.084] [ERROR] default - Route not found!
+[2023-03-17T11:30:10.092] [ERROR] default - Route not found!
+[2023-03-17T11:30:14.826] [ERROR] default - Route not found!
+[2023-03-17T11:30:14.832] [ERROR] default - Route not found!
+[2023-03-17T11:30:14.834] [ERROR] default - Route not found!
+[2023-03-17T11:30:14.837] [ERROR] default - Route not found!
+[2023-03-17T11:30:14.842] [ERROR] default - Route not found!
+[2023-03-17T11:30:14.847] [ERROR] default - Route not found!
+[2023-03-17T11:30:14.860] [ERROR] default - Route not found!
+[2023-03-17T11:30:14.863] [ERROR] default - Route not found!
+[2023-03-17T11:30:14.868] [ERROR] default - Route not found!
+[2023-03-17T11:41:14.084] [INFO] default - Server run on the port 3000
+[2023-03-17T11:42:21.341] [INFO] default - Server run on the port 3000
+[2023-03-17T11:45:10.525] [INFO] default - Server run on the port 3000
+[2023-03-17T11:45:17.096] [INFO] default - Server run on the port 3000
+[2023-03-17T11:45:39.294] [INFO] default - Server run on the port 3000
+[2023-03-17T11:46:32.037] [INFO] default - Server run on the port 3000
+[2023-03-17T11:48:20.946] [INFO] default - Server run on the port 3000
+[2023-03-17T11:49:50.796] [INFO] default - Server run on the port 3000
+[2023-03-17T11:51:38.402] [INFO] default - Server run on the port 3000
+[2023-03-17T11:53:43.781] [INFO] default - Server run on the port 3000
+[2023-03-17T11:54:03.920] [INFO] default - Server run on the port 3000
+[2023-03-17T11:54:05.202] [ERROR] default - E11000 duplicate key error collection: journal.users index: email_1 dup key: { email: "hrifat450@gmail.com" }
+[2023-03-17T11:57:42.178] [INFO] default - Server run on the port 3000
+[2023-03-17T11:57:54.863] [INFO] default - Server run on the port 3000
+[2023-03-17T11:58:32.483] [INFO] default - Server run on the port 3000
+[2023-03-17T11:58:41.673] [INFO] default - Server run on the port 3000
+[2023-03-17T11:58:56.024] [INFO] default - Server run on the port 3000
+[2023-03-17T11:59:47.380] [INFO] default - Server run on the port 3000
+[2023-03-17T12:00:35.968] [INFO] default - Server run on the port 3000
+[2023-03-17T12:00:47.935] [INFO] default - Server run on the port 3000
+[2023-03-17T12:00:59.818] [INFO] default - Server run on the port 3000
+[2023-03-17T12:08:33.800] [INFO] default - Server run on the port 3000
+[2023-03-17T12:09:41.633] [INFO] default - Server run on the port 3000
+[2023-03-17T12:09:53.298] [INFO] default - Server run on the port 3000
+[2023-03-17T12:10:19.852] [INFO] default - Server run on the port 3000
+[2023-03-17T12:13:43.857] [INFO] default - Server run on the port 3000
+[2023-03-17T12:14:52.220] [INFO] default - Server run on the port 3000
+[2023-03-17T12:15:14.102] [INFO] default - Server run on the port 3000
+[2023-03-17T12:15:45.552] [INFO] default - Server run on the port 3000
+[2023-03-17T12:16:19.433] [ERROR] default - Route not found!
+[2023-03-17T12:16:43.927] [INFO] default - Server run on the port 3000
+[2023-03-17T12:16:48.894] [ERROR] default - Route not found!
+[2023-03-17T12:17:23.608] [INFO] default - Server run on the port 3000
+[2023-03-17T12:17:31.910] [INFO] default - Server run on the port 3000
+[2023-03-17T12:19:08.213] [INFO] default - Server run on the port 3000
+[2023-03-17T12:19:34.842] [INFO] default - Server run on the port 3000
+[2023-03-17T12:20:11.144] [ERROR] default - Route not found!
+[2023-03-17T12:20:56.492] [INFO] default - Server run on the port 3000

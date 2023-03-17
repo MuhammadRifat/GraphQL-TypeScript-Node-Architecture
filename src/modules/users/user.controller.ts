@@ -1,6 +1,7 @@
 import { NextFunction, Request, Response } from "express";
 import { IUser } from "./user.interface";
 import { userService } from "./user.service";
+import bcrypt from "bcrypt";
 
 
 const getAllUsers = async (req: Request, res: Response, next: NextFunction) => {
@@ -17,6 +18,10 @@ const getAllUsers = async (req: Request, res: Response, next: NextFunction) => {
 
 const createUser = async (req: Request, res: Response, next: NextFunction) => {
     try {
+        const saltRounds: number = 10;
+        const salt = await bcrypt.genSalt(saltRounds);
+        const hash = await bcrypt.hash(req.body.password, salt);
+        req.body.password = hash;
 
         const user: IUser = await userService.createOne<IUser>(req.body);
 
