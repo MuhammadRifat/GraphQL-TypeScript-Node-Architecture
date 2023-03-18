@@ -2137,3 +2137,70 @@ Could not find the include file "components/topnav2"
 [2023-03-17T22:30:52.715] [ERROR] default - Route not found!
 [2023-03-17T22:30:52.731] [ERROR] default - Route not found!
 [2023-03-17T22:30:53.694] [ERROR] default - Route not found!
+[2023-03-18T07:04:14.664] [INFO] default - Server run on the port 3000
+[2023-03-18T07:08:33.686] [INFO] default - Server run on the port 3000
+[2023-03-18T07:08:45.590] [ERROR] default - Route not found!
+[2023-03-18T07:08:46.245] [ERROR] default - Route not found!
+[2023-03-18T07:08:46.269] [ERROR] default - Route not found!
+[2023-03-18T07:08:46.307] [ERROR] default - Route not found!
+[2023-03-18T07:08:46.327] [ERROR] default - Route not found!
+[2023-03-18T07:08:47.044] [ERROR] default - Route not found!
+[2023-03-18T07:11:52.302] [INFO] default - Server run on the port 3000
+[2023-03-18T07:18:37.644] [ERROR] default - Route not found!
+[2023-03-18T07:18:37.797] [ERROR] default - Route not found!
+[2023-03-18T07:18:37.877] [ERROR] default - Route not found!
+[2023-03-18T07:18:37.995] [ERROR] default - Route not found!
+[2023-03-18T07:26:00.972] [INFO] default - Server run on the port 3000
+[2023-03-18T07:27:10.980] [INFO] default - Server run on the port 3000
+[2023-03-18T07:27:22.031] [INFO] default - Server run on the port 3000
+[2023-03-18T08:08:24.151] [INFO] default - Server run on the port 3000
+[2023-03-18T08:09:09.770] [INFO] default - Server run on the port 3000
+[2023-03-18T08:09:25.399] [ERROR] default - Route not found!
+[2023-03-18T08:09:27.172] [ERROR] default - Route not found!
+[2023-03-18T08:09:27.180] [ERROR] default - Route not found!
+[2023-03-18T08:09:27.541] [ERROR] default - Route not found!
+[2023-03-18T08:09:27.674] [ERROR] default - Route not found!
+[2023-03-18T08:09:52.643] [ERROR] default - Route not found!
+[2023-03-18T08:09:53.239] [ERROR] default - Route not found!
+[2023-03-18T08:09:59.324] [ERROR] default - D:\2023-projects\Journal Backend\Journal\src\views\dashboard\index.ejs:1
+ >> 1| <%- include('common/header.php'); %>
+    2|     <%- include('common/left_sidebar.php'); %>
+    3|         <div class="bg-white shadow-sm p-2">
+    4|             <div>
+
+Could not find the include file "common/header.php"
+[2023-03-18T08:09:59.816] [ERROR] default - Route not found!
+[2023-03-18T08:10:23.761] [ERROR] default - D:\2023-projects\Journal Backend\Journal\src\views\dashboard\index.ejs:1
+ >> 1| <%- include('common/header.php'); %>
+    2|     <%- include('common/left_sidebar.php'); %>
+    3|         <div class="bg-white shadow-sm p-2">
+    4|             <div>
+
+Could not find the include file "common/header.php"
+[2023-03-18T08:10:24.363] [ERROR] default - Route not found!
+[2023-03-18T08:11:05.153] [ERROR] default - Route not found!
+[2023-03-18T08:11:05.194] [ERROR] default - Route not found!
+[2023-03-18T08:11:05.220] [ERROR] default - Route not found!
+[2023-03-18T08:11:05.309] [ERROR] default - Route not found!
+[2023-03-18T08:11:06.651] [ERROR] default - Route not found!
+[2023-03-18T08:15:10.972] [ERROR] default - Route not found!
+[2023-03-18T08:15:10.997] [ERROR] default - Route not found!
+[2023-03-18T08:15:11.018] [ERROR] default - Route not found!
+[2023-03-18T08:15:11.430] [ERROR] default - Route not found!
+[2023-03-18T08:15:15.686] [ERROR] default - Route not found!
+[2023-03-18T08:15:15.690] [ERROR] default - Route not found!
+[2023-03-18T08:15:15.808] [ERROR] default - Route not found!
+[2023-03-18T08:15:16.086] [ERROR] default - Route not found!
+[2023-03-18T08:17:05.465] [ERROR] default - Route not found!
+[2023-03-18T08:17:05.474] [ERROR] default - Route not found!
+[2023-03-18T08:17:08.376] [ERROR] default - Route not found!
+[2023-03-18T08:17:40.283] [ERROR] default - Route not found!
+[2023-03-18T08:17:40.863] [ERROR] default - Route not found!
+[2023-03-18T08:17:47.093] [ERROR] default - Route not found!
+[2023-03-18T08:18:28.494] [ERROR] default - Route not found!
+[2023-03-18T08:18:28.991] [ERROR] default - Route not found!
+[2023-03-18T08:18:36.624] [ERROR] default - Route not found!
+[2023-03-18T08:20:16.216] [INFO] default - Server run on the port 3000
+[2023-03-18T08:20:16.840] [ERROR] default - Route not found!
+[2023-03-18T08:20:16.846] [ERROR] default - Route not found!
+[2023-03-18T08:20:23.166] [ERROR] default - Route not found!

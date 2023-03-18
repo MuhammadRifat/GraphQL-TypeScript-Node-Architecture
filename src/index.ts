@@ -7,7 +7,7 @@ import logger from './logger/logger';
 import ErrorHandler from './middlewares/errorHandler.middleware';
 import { userRouter } from './modules/users/user.routes';
 import path from "path";
-
+import { dashboardRouter } from './router/dashboardRouter';
 const app: Application = express();
 const port: number = Number(config.server.port) || 8080;
 
@@ -19,6 +19,8 @@ app.set('view engine', 'ejs');
 app.use('/static', express.static('public'));
 app.use(express.json());
 app.use('/user', userRouter);
+
+app.use("/dashboard", dashboardRouter);
 
 app.get('/', (req: Request, res: Response) => {
     return res.render("index", {
