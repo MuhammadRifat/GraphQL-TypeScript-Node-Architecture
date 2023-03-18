@@ -31,7 +31,7 @@ const config = {
             },
             everything: {
                 type: "file",
-                filename: "everything.log",
+                filename: "D:/JS/logs/everything.log",
             }
         },
         categories: {
