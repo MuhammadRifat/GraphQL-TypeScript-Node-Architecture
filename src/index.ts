@@ -11,6 +11,7 @@ import { auth } from './middlewares/auth.middleware';
 import { userRouter } from './modules/users';
 import { authRouter } from './modules/auth';
 
+import { dashboardRouter } from './router/dashboardRouter';
 const app: Application = express();
 const port: number = Number(config.server.port) || 8080;
 
@@ -34,6 +35,8 @@ app.use(session({
 app.use(express.json());
 app.use('/', userRouter);
 app.use('/', authRouter);
+
+app.use("/dashboard", dashboardRouter);
 
 app.get('/', (req: Request, res: Response) => {
     return res.render("index", {
