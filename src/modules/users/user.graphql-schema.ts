@@ -16,10 +16,13 @@ input UserInput {
 
 extend type Query {
     listUsers: [User]
+    getUser(_id: String): User
 }
 
 extend type Mutation {
-    createUser(user: UserInput): User
+    createUser(data: UserInput): User
+    deleteUser(_id: ID!): User
+    updateUser(_id: String, data: UserInput): User
 }
 `;
 

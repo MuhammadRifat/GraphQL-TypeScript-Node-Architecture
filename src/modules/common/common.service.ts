@@ -41,18 +41,15 @@ class Service {
     // update document by id
     updateById = async <T>(
         _id: mongoose.Types.ObjectId,
-        updateBody: T,
-        auditTrails: IAuditTrail
+        updateBody: T
     ): Promise<T> => {
-        const { updated_at, updated_by, updated_detail } = auditTrails;
         return await this.Model.findByIdAndUpdate(
             _id,
             {
                 $set: {
                     ...updateBody,
-                    "audit_trails.updated_at": updated_at,
-                    "audit_trails.updated_by": updated_by,
-                    "audit_trails.updated_detail": updated_detail,
+                    "audit_trails.updated_at": new Date(),
+                    "audit_trails.updated_by": `updated by ${_id}`,
                 },
             },
             { new: true }
@@ -85,16 +82,14 @@ class Service {
 
 
     // delete document by id
-    deleteById = async <T>(_id: mongoose.Types.ObjectId, auditTrails: IAuditTrail): Promise<T> => {
-        const { deleted_at, deleted_by, deleted_detail } = auditTrails;
+    deleteById = async <T>(_id: mongoose.Types.ObjectId): Promise<T> => {
         return await this.Model.findByIdAndUpdate(
             _id,
             {
                 $set: {
                     is_deleted: true,
-                    "audit_trails.deleted_at": deleted_at,
-                    "audit_trails.deleted_by": deleted_by,
-                    "audit_trails.deleted_detail": deleted_detail,
+                    "audit_trails.deleted_at": new Date(),
+                    "audit_trails.deleted_by": `deleted_by ${_id}`,
                 },
             },
             { new: true }

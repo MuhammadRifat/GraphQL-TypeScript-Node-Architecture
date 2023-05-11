@@ -18,7 +18,7 @@ const authResolvers = {
                 throw Error("Password incorrect!");
             }
 
-            return user;
+            return { user, message: "login successful!" };
         } catch (error) {
             return error;
         }

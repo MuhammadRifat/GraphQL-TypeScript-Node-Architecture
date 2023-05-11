@@ -5,8 +5,13 @@ input LoginInput {
     password: String
 }
 
+type LoginResponse {
+    user: User 
+    message: String
+}
+
 extend type Mutation {
-    login(data: LoginInput): User
+    login(data: LoginInput): LoginResponse
 }
 `;
 
