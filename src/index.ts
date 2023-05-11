@@ -6,15 +6,15 @@ import { connectDB } from './db/db';
 import logger from './logger/logger';
 import ErrorHandler from './middlewares/errorHandler.middleware';
 import { graphqlHTTP } from 'express-graphql';
-import resolvers from './modules/users/user.resolver';
-import schema from './schema.graphql';
+import schemas from './schemas.graphql';
+import resolvers from './resolvers';
 
 const app: Application = express();
 const port: number = Number(config.server.port) || 8080;
 
 // application middleware
 app.use("/graphql", graphqlHTTP({
-    schema: schema,
+    schema: schemas,
     rootValue: resolvers,
     graphiql: true
 }));

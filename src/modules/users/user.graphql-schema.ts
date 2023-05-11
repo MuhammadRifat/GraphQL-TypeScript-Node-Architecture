@@ -14,11 +14,11 @@ input UserInput {
     password: String
 }
 
-type Query {
+extend type Query {
     listUsers: [User]
 }
 
-type Mutation {
+extend type Mutation {
     createUser(user: UserInput): User
 }
 `;

@@ -2,7 +2,7 @@ import { IUser } from "./user.interface";
 import { userService } from "./user.service";
 import bcrypt from "bcrypt";
 
-const resolvers = {
+const userResolvers = {
     listUsers: async () => {
         try {
             const users: IUser[] = await userService.findAllByQuery<IUser>();
@@ -32,8 +32,7 @@ const resolvers = {
         }
     }
 
-
 }
 
 
-export default resolvers;
+export default userResolvers;
