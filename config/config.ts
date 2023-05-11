@@ -12,7 +12,7 @@ const config = {
     origin: process.env.ORIGIN,
     db: {
         journal: {
-            url: "mongodb://0.0.0.0:27017/journal",
+            url: "mongodb://0.0.0.0:27017/graphql",
             collections: {
                 journals: "journals",
                 articles: "articles",

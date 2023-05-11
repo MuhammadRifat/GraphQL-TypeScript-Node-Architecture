@@ -11,15 +11,14 @@ const login = async (req: Request, res: Response, next: NextFunction) => {
         const user: IUser = await userService.findOneByQuery<IUser>({ email: email, role: role });
 
         if (!user) {
-            return res.render("login", { message: "User not found!" });
+            return res.status(404).json({ message: "User not found!" });
         }
 
         const isPasswordMatched: boolean = await bcrypt.compare(password, user.password);
         if (!isPasswordMatched) {
-            return res.render("login", { message: "Password Incorrect!" });
+            return res.status(403).json({ message: "Password incorrect!" });
         }
 
-        req.session.user = user;
         return res.redirect("/");
     } catch (error) {
         next(error);

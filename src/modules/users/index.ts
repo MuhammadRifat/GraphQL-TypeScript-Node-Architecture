@@ -1,11 +1,11 @@
-import * as userController from "./user.controller";
+import * as userController from "./user.resolver";
 import * as userService from "./user.service";
-import { userRouter } from "./user.routes";
 import { User } from "./user.model";
+import { userGraphqlSchema } from "./user.graphql-schema";
 
 export {
     userController,
     userService,
-    userRouter,
-    User
+    User,
+    userGraphqlSchema
 };
